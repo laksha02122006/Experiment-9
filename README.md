@@ -31,6 +31,7 @@ Application scan (tools: IBM AppScan, HP WebInspect, Burp Suite, etc.) Identifyi
 End-user validation to ensure seamless experience and full functionality Common Test Cases: Opening a Bank Account Input Parameter Verification Name Date of Birth Photo Address proof Identity proof Introducer (if required) PAN card Initial deposit Facilities required (chequebook, ATM card, online banking) Customer signature Account Types Savings account Salary account Joint account Current account Recurring deposit (RD) account Company account
 
 Text Cases
+
 <img width="822" height="717" alt="image" src="https://github.com/user-attachments/assets/235dbee4-2dd8-4852-8e3c-f71b7f596d27" />
 
 ## Result
